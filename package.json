@@ -1,0 +1,11 @@
+{
+  "name": "knex-aurora-data-api-client-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.884.0",
+    "knex": "^0.95.4",
+    "knex-aurora-data-api-client": "^1.5.3"
+  }
+}
